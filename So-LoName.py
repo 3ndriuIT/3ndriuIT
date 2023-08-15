@@ -1,4 +1,4 @@
-# z podanej listy liczb policz te, które sa podzielne przez 4 i te ktore przez 5
+# From list show shortest and longest name.
 
 names = ['karolina', 'andzelina', 'wladyslaw', 'marek', 'konrad', 'mariusz', 'maks']
 shortest_name = None
